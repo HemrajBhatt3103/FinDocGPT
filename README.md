@@ -53,7 +53,7 @@ export FINANCEBENCH_DATA_PATH="./data/financebench/"
 
 4. **Run the application**
 ```bash
-streamlit run main.py
+python -m streamlit run main.py
 ```
 
 5. **Access the web interface**
